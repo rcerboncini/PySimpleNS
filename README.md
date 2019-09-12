@@ -8,7 +8,8 @@
  How to:
  
 	1 - First choose the value for 'w' (ex: 0.1, 0.5, 0.92).
-		The relative fitness 'w' representes the absolute fitness of the allele 'q' divided by the absolute fitness of allele 'p'.
+		The relative fitness 'w' representes the absolute fitness of the allele 'q' divided by\
+		the absolute fitness of allele 'p'.
 		Type a number between 0 and 1 and press enter.
 	
 	2 - Then, choose the initial frequency of the less fit allele ('q0') in the population.
