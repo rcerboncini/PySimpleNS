@@ -5,8 +5,8 @@ A simple model of natural selection based on Orr, 2009. Fitness and its role in
 evolutionary genetics.  Nature Reviews (Genetics) vol. 10, p. 531-539.
 author: Ricardo A. S. Cerboncini
 website: rcerboncini.freesite.vip
-github repository:
-  
+github repository: https://github.com/rcerboncini/PySimpleNS
+
 --
 MIT License
 
