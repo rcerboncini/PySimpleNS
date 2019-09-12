@@ -19,5 +19,3 @@
 	
 	4 - Choose a folder for saving the results.
 		The results can be found within 'results.csv' file in the selected folder.
-		
-	
