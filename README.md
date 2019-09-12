@@ -6,6 +6,7 @@
  Two alleles 'p' and 'q' compete with relative fitness 'w' (= 'W(q)'/'W(p)') and selection coeficient 's'.
  
  How to:
+ 
 	1 - First choose the value for 'w' (ex: 0.1, 0.5, 0.92).
 		The relative fitness 'w' representes the absolute fitness of the allele 'q' divided by the absolute fitness of allele 'p'.
 		Type a number between 0 and 1 and press enter.
